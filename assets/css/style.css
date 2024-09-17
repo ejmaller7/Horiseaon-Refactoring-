@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*This starts all of the header elements*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +42,21 @@ body {
     margin-left: 25px;
 }
 
+/*This is for the links in the header*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/*This is where all the header elements end*/
 
+
+/*This is for all of the paragraphs*/
 p {
     font-size: 16px;
 }
 
+
+/*This is the image and the gap between the header and the main sections of the webpage*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +66,8 @@ p {
     background-position: center;
 }
 
+
+/*Determines where the pictures in each of the sections are positioned*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +77,18 @@ p {
     float: right;
     margin-left: 25px;
 }
+/**/
 
+
+/*This determines how big each of the sections are*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+/*This is for the format of the aside element*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +147,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*This is the end of all of the aside formatting*/
 
+
+/*This is for the format of the first section*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +160,7 @@ p {
     color: #ffffff;
 }
 
+/*This is for the format of the second section*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +170,7 @@ p {
     color: #ffffff;
 }
 
+/*This is for the format of the third section*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +180,7 @@ p {
     color: #ffffff;
 }
 
+/*Images below are for the format of all the images in the above sections*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +192,9 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+/**/
 
+/*Headers below are for the format of all the headers in the above sections*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +209,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/**/
 
+/*This is for the format of the footer*/
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +219,8 @@ p {
     text-align: center;
 }
 
+/*This is for the header of the footer*/
 .footer h2 {
     font-size: 20px;
 }
+/**/
