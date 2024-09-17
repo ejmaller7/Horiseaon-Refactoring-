@@ -133,19 +133,19 @@ p {
 .benefit-lead img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    height: 150px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    height: 150px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    height: 150px;
 }
 /*This is the end of all of the aside formatting*/
 
@@ -182,15 +182,15 @@ p {
 
 /*Images below are for the format of all the images in the above sections*/
 .search-engine-optimization img {
-    max-height: 200px;
+    height: 200px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    height: 200px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    height: 200px;
 }
 /**/
 
